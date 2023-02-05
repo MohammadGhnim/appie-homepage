@@ -1,0 +1,160 @@
+.appie-btn-box a{
+    color: #0e1133;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.ml-30{
+    margin-left: 30px;
+}
+.appie-btn-box .gs-btn{
+    color: #007bff;
+}
+.text-right{
+    text-align: right!important;
+}
+.align-items-center{
+    align-items: center!important;
+}
+.bg-body{
+    background-color: transparent;
+}
+.appie-hero-content > span {
+    color: #2b70fa;
+    font-size: 14px;
+    font-weight: 500;
+}
+.appie-hero-content .appie-title {
+    font-size: 60px;
+    line-height: 70px;
+    margin-top: 10px;
+    margin-bottom: 22px;
+}
+.align-items-center {
+    -ms-flex-align: center!important;
+    align-items: center!important;
+}
+.appie-hero-area {
+    padding-top: 200px;
+    padding-bottom: 110px;
+    overflow: hidden;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    font-weight: 900;
+    color: #0e1133;
+    margin: 0px;
+}
+.appie-hero-content ul {
+    margin: 41px 0 0;
+    padding: 0;
+    list-style-type: none;
+}
+.appie-section-title p {
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 11px;
+    margin: 0px;
+}
+.appie-section-title .appie-title {
+    font-size: 44px;
+    line-height: 54px;
+}
+h3{
+    font-weight: 900;
+    color: #0e1133;
+    margin: 0px;
+}
+.appie-section-title {
+    padding-bottom: 25px;
+}
+.text-center {
+    text-align: center!important;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+.appie-single-service .icon {
+    display: inline-block;
+    border-radius: 20px;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    line-height: 70px;
+    background: linear-gradient(135deg, rgb(132, 188, 250) 0%, rgb(43, 112, 250) 100%);
+    box-shadow: 0px 6px 10px 0px rgb(16 73 189 / 30%);
+    position: relative;
+}
+.appie-single-service {
+    padding: 50px 30px 43px;
+    background: #fff;
+    border-radius: 6px;
+    transition: all linear 0.3s;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.appie-service-area {
+    background: #eef1f6;
+    position: relative;
+    background-image: url(../images/shape/shape-1.png);
+    background-position: 92% 100%;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.appie-single-service .icon > span {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    height: 30px;
+    width: 30px;
+    background: #2b70fa;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0px 3px 6px 0px rgb(14 17 51 / 10%);
+    line-height: 28px;
+    color: #fff;
+}
+.appie-single-service.item-2 .icon {
+    background: linear-gradient(135deg, rgb(247, 184, 175) 0%, rgb(248, 69, 45) 100%);
+}
+.appie-single-service.item-2 .icon span {
+    background: #f8452d;
+}
+.appie-single-service.item-3 .icon span {
+    background: #31c369;
+}
+.appie-single-service.item-3 .icon {
+    background: linear-gradient(135deg, rgb(160, 234, 194) 0%, rgb(49, 195, 105) 100%);
+}
+.appie-single-service.item-4 .icon span {
+    background: #9b2cfa;
+}
+.appie-single-service.item-4 .icon {
+    background: linear-gradient(135deg, rgb(216, 170, 255) 0%, rgb(155, 44, 250) 100%);
+}
+.appie-single-service:hover {
+    box-shadow: 0px 40px 40px 0px rgb(14 17 51 / 10%);
+    transform: translateY(-15px);
+}
+.pb-100 {
+    padding-bottom: 100px;
+}
+.pt-90 {
+    padding-top: 90px;
+}
+.appie-single-service .appie-title {
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 33px;
+    padding-bottom: 10px;
+}
