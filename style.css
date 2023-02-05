@@ -29,14 +29,15 @@
     line-height: 70px;
     margin-top: 10px;
     margin-bottom: 22px;
+    font-weight: 800;
 }
 .align-items-center {
     -ms-flex-align: center!important;
     align-items: center!important;
 }
 .appie-hero-area {
-    padding-top: 200px;
-    padding-bottom: 110px;
+    padding-top: 350px;
+    padding-bottom: 280px;
     overflow: hidden;
     position: relative;
     z-index: 10;
@@ -157,4 +158,83 @@ img {
     font-weight: 700;
     padding-top: 33px;
     padding-bottom: 10px;
+}
+.appie-header-area {
+    padding-top: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+.appie-header-main-menu li {
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+}
+.appie-header-main-menu > li > a {
+    font-size: 15px;
+    font-weight: 500;
+    color: #0e1133;
+    line-height: 45px;
+}
+.appie-hero-content ul li a {
+    background: #0e1133;
+    color: #fff;
+    line-height: 40px;
+    padding: 0 23px;
+    border-radius: 6px;
+    border: 2px solid #0e1133;
+    text-decoration: none;
+}
+i, span, a {
+    display: inline-block;
+    transition: all linear 0.3s;
+}
+.appie-hero-content ul li {
+    display: inline-block;
+    margin-right: 8px;
+}
+.appie-hero-content p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.appie-hero-thumb .thumb-2 {
+    position: absolute;
+    right: -70px;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 0px 30px 70px 0px rgb(68 1 15 / 20%);
+}
+.appie-hero-thumb {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+}
+.red-bg{
+    position: absolute;
+    content: "";
+    left: 50%;
+    top: 50%;
+    height: 500px;
+    width: 500px;
+    transform: translate(-50%, -50%);
+    background: #ff3e66;
+    border-radius: 50%;
+    z-index: -1;
+}
+.appie-hero-content ul li a.item-2 {
+    background: transparent;
+    color: #0e1133;
+}
+.appie-hero-content ul li a.item-2:hover {
+    background: #0e1133;
+    color: #fff;
+}
+.appie-hero-content ul li a:hover {
+    background: transparent;
+    color: #0e1133;
+}
+.appie-hero-content h1{
+    font-weight: 900px;
 }
