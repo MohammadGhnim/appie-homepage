@@ -4,4 +4,4 @@ The original link:
 https://quomodosoft.com/html/appie/assets/appie-demo/
 
 Live Demo:
-(coming soon)
+https://mohammadghnim.github.io/appie-homepage/
