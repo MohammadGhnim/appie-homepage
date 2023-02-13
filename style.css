@@ -238,3 +238,24 @@ i, span, a {
 .appie-hero-content h1{
     font-weight: 900px;
 }
+.pt-100{
+    padding-top: 100px;
+}
+
+.appie-features-tabs-btn .nav a {
+    border-right: 3px solid #e8eaef;
+    border-radius: 0;
+    font-size: 15px;
+    font-weight: 500;
+    color: #505056;
+}
+.nav-link {
+    display: block;
+    padding: 16, 8,16,8;
+}
+
+.appie-features-tabs-btn .nav a.active {
+    border-right-color: #2b70fa;
+    background: transparent;
+    color: #2b70fa;
+}
